@@ -1,0 +1,10 @@
+Object-Oriented Programming (OOP)
+
+Object-Oriented Programming is a programming paradigm that organizes software around objects. An object combines state (data) with behavior (functions or methods). Classes define the structure and behavior that their objects share.
+
+The four pillars of OOP are:
+
+1. Encapsulation: Bundles related data and methods in a class and controls access to an object's internal state.
+2. Abstraction: Exposes the essential features of an object while hiding unnecessary implementation details.
+3. Inheritance: Lets a class derive from another class to reuse and extend its behavior.
+4. Polymorphism: Lets a common interface represent different implementations, so the same operation can behave differently for different object types.
